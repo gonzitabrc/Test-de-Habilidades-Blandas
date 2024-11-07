@@ -1,23 +1,11 @@
 # Test-de-Habilidades-Blandas
-Esta aplicación consta de un formulario de test para la evaluación de habilidades blandas, guarda los resultados en una hoja de cálculo y posee una función para evaluar el puntaje de las personas que completan el test
-
-/**										
-*										
-* Test de habilidades blandas con puntuación V 1.3  - Aplicación de Google Apps Script + G. Sheets  + G. Forms -										
-*										
-* desarrollado por Gonzalo Reynoso, DDW -										
-* https://ddw.com.ar - gonzita@gmail.com										
-*										
-* licencia MIT: podés darle cualquier uso sin garantías y bajo tu responsabilidad,										
-*										
-**/										
+Esta aplicación consta de un formulario de test para la evaluación de habilidades blandas, guarda los resultados en una hoja de cálculo y posee una función para evaluar el puntaje de las personas que completan el test									
 										
 										
 DESCRIPCIÓN - 										
 Esta aplicación consta de un formulario de test para la evaluación de habilidades blandas, guarda los resultados en una hoja de cálculo y posee una función para evaluar el puntaje de las personas que completan el test										
 										
-Posee licencia MIT: podés usarlo sin cargo, modificarlo, etc, sin garantías y bajo tu propia responsabilidad, no podés eliminar ni editar los créditos del autor (Gonzalo Reynoso, DDW) ni el copyright										
-										
+Posee licencia MIT: podés usarlo sin cargo, modificarlo, etc, sin garantías y bajo tu propia responsabilidad, no podés eliminar ni editar los créditos del autor (Gonzalo Reynoso, DDW) ni el copyright																				
 										
 SETUP  - INSTRUCCIONES PARA IMPLEMENTAR LA APLICACIÓN										
 1) crea una copia de esta hoja de cálculo https://docs.google.com/spreadsheets/d/1C3MBIGpNO9NW7VfJ0FNUjlgoFJhr087uo15uV_kGLMc/edit?usp=sharing en tu espacio de Google Drive: archivo >> crear una copia  (guarda el archivo y envía su link al escritorio o a favoritos de tu navegador para tenerlo siempre a mano. Tiene que tener esta forma: https://docs.google.com/spreadsheets/d/id_de_la_hoja_de_calculo/)										
